@@ -1,0 +1,336 @@
+ENGINEERING ARTICLES, BLOGS, SYSTEM DESIGNS & ARCHITECTURES:
+RISK MANAGEMENT, FRAUD DETECTION & ANTI-MONEY LAUNDERING (AML)
+Total Collected URLs: 38
+================================================================================
+
+1. REAL-TIME FRAUD DETECTION & STREAMING ARCHITECTURES
+------------------------------------------------------
+- Designing a Fraud Detection System: From Requirements to Architecture (Medium - Blake Lassiter)
+  https://medium.com/@blakelassiter/designing-a-fraud-detection-system-from-requirements-to-architecture-d2225218e402
+- Fraud Detection Data Engineering System Design (DataVidhya)
+  https://datavidhya.com/learn/de-system-design/question-breakdowns-advanced/real-time-fraud-detection/
+- Fraud Detection System Architecture: PayPal & Uber Patterns (SystemDR)
+  https://systemdr.systemdrd.com/p/fraud-detection-system-architecture
+- Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop (Uber Engineering)
+  https://www.uber.com/us/en/blog/project-radar-intelligent-early-fraud-detection/
+- How Stripe Detects Fraudulent Transactions Within 100 ms (ByteByteGo)
+  https://blog.bytebytego.com/p/how-stripe-detects-fraudulent-transactions
+- A Primer on Machine Learning for Fraud Detection (Stripe)
+  https://stripe.com/guides/primer-on-machine-learning-for-fraud-protection
+- How to Build a Real-Time Fraud Detection System (Tinybird)
+  https://www.tinybird.co/blog/how-to-build-a-real-time-fraud-detection-system
+- Low-Latency Fraud Prevention Architecture (Kai Waehner)
+  https://www.linkedin.com/top-content/technology/fraud-detection-methods/low-latency-fraud-prevention-architecture/
+- Fraud Detection Machine Learning Architecture & Patterns (Izan Technologies)
+  https://izantechnologies.com/blog/fraud-detection-machine-learning-architecture-reference-design-and-patterns
+- Designing Real-Time Features for Fraud Detection at Scale (Towards AI)
+  https://pub.towardsai.net/designing-real-time-features-for-fraud-detection-at-scale-490afd927152
+- Fraud Detection Architecture with Real-Time Intelligence (Microsoft Learn)
+  https://learn.microsoft.com/en-us/fabric/real-time-intelligence/architectures/fraud-detection
+
+2. ANTI-MONEY LAUNDERING (AML) & TRANSACTION MONITORING
+-------------------------------------------------------
+- Transaction Monitoring System: Architecture Guide (Redis)
+  https://redis.io/blog/transaction-monitoring-system/
+- Building Real-World AML Systems: Open Source & MLOps Integration (Medium - Amarnadh Vonteddu)
+  https://medium.com/@vontamar/building-real-world-aml-systems-a-complete-guide-to-open-source-implementation-and-mlops-5b9e5fb8dd4e
+- Architecting an AI Anti-Money Laundering System (Momin Ali)
+  https://www.linkedin.com/pulse/architecting-ai-anti-money-laundering-system-momin-ali-grszf
+- Enhancing Anti-Money Laundering Systems Architecture (Feedzai)
+  https://www.feedzai.com/blog/enhancing-anti-money-laundering-systems-architecture/
+- Feedzai Blog: Financial Crime, AML & AI Technology
+  https://www.feedzai.com/blog/
+- KYC/AML Automation: How to Build It Into Your Fintech Product (Saigon Technology)
+  https://saigontechnology.com/blog/kyc-aml-automation/
+- AML Software Development Guide (GeekyAnts)
+  https://geekyants.com/blog/aml-anti-money-laundering-software-development-guide-build-secure-fintech-apps
+- Anti-Money Laundering (AML), Fraud Detection & Compliance Architecture (Protecht Group)
+  https://www.protechtgroup.com/en-us/blog/anti-money-laundering-aml-fraud-detection-and-compliance
+- Building Effective Anti-Money Laundering Systems (SSRN Paper 5930535)
+  https://www.ssrn.com/abstract=5930535
+- Building Effective Anti-Money Laundering Systems (SSRN Paper 5963374)
+  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5963374
+
+3. GRAPH ANALYTICS & GRAPH NEURAL NETWORKS (GNN) FOR RISK
+---------------------------------------------------------
+- Graph for Fraud Detection (Grab Tech Engineering)
+  https://engineering.grab.com/graph-for-fraud-detection
+- Supercharging Fraud Detection in Financial Services with Graph Neural Networks (NVIDIA Technical Blog)
+  https://developer.nvidia.com/blog/supercharging-fraud-detection-in-financial-services-with-graph-neural-networks/
+- Graph Neural Networks and Network Analysis to Detect Financial Fraud (Medium - Brian James Curry)
+  https://medium.com/@brian-curry-research/graph-neural-networks-and-network-analysis-to-detect-financial-fraud-ddd636c129db
+- AML with Graph Analytics: Detecting Money Laundering (TigerGraph)
+  https://www.tigergraph.com/blog/aml-graph-analytics-money-laundering/
+- Top 10 Use Cases: Anti-Money Laundering (Neo4j)
+  https://neo4j.com/blog/fraud-detection/top-10-use-cases-anti-money-laundering/
+- Tracing Digital Breadcrumbs: How Graph Neural Networks Are Reshaping Fraud Management (Everest Group)
+  https://www.everestgrp.com/blog/tracing-digital-breadcrumbs-how-graph-neural-networks-are-reshaping-fraud-management-blog.html
+- Graph Neural Networks for Multi-Layered Financial Crime Detection (JERR)
+  https://journaljerr.com/index.php/JERR/article/view/1787
+
+4. CENTRALIZED RISK SCORING ENGINES & FINTECH PLATFORM ARCHITECTURE
+-------------------------------------------------------------------
+- Risk Scoring Engine Design (Medium - Rajneesh Gupta)
+  https://medium.com/@gupta.rajneesh2010/26-risk-scoring-engine-design-bb9e6d3090f9
+- Payment Risk Engine Architecture: Scoring & Control Logic (Flexgate)
+  https://flexgate.tech/blog/payment-risk-engine-architecture-scoring-logic/
+- Risk Engine: Definition & How It Works (PXP)
+  https://www.pxp.io/payments-glossary/risk-engine
+- Risk Scoring Engines in Finance and FinTech (The Power of AI)
+  https://the-power-of.ai/industry/finance-fintech/topic/risk-scoring-engines
+- Fintech Risk Monitor: Risk Engine Architecture (Mintlify)
+  https://youngandaspire-fastapi_htmx_business_risk_assessment.mintlify.app/architecture/risk-engine
+- Coinbase Engineering Blog (Risk ML & Model Retraining)
+  https://www.coinbase.com/fr/blog/landing/engineering
+- Modular Risk Architecture: Its Rise and Its Benefits (Evalueserve)
+  https://www.evalueserve.com/blog/the-rise-of-modular-risk-architecture/
+- FinTech Software Architecture Blueprint (Prostrive)
+  https://prostrive.io/blog/fintech-software-architecture
+- Designing Resilient Financial Software Platforms (IRE Journals)
+  https://www.irejournals.com/paper-details/1716618
+- A Survey of Machine Learning and Deep Learning for Financial Fraud Detection (MDPI Algorithms)
+  https://www.mdpi.com/1999-4893/19/5/354
+
+
+
+## Risk mananagement, Fraud detection, anti-money laundering
+https://techcabal.com/2026/01/09/fraud-detection-in-nigeria/
+https://www.infoq.cn/article/E3OFF8UcN4NQQmGRKd9b
+https://sphinxhq.com/blog-posts/real-time-aml-monitoring
+https://github.com/Cesco556/aml-transaction-monitoring-engine/blob/main/docs/ARCHITECTURE.md
+https://redpanda-data.medium.com/detecting-fraud-in-real-time-using-redpanda-and-pinecone-b0f4d5f3fa1a
+https://zenodo.org/records/20131919
+https://ieeexplore.ieee.org/document/11507565
+https://ieeexplore.ieee.org/document/11114560
+https://link.springer.com/article/10.1007/s12083-025-02086-6
+https://ieeexplore.ieee.org/abstract/document/11407168
+https://ieeexplore.ieee.org/abstract/document/11399631
+https://www.nature.com/articles/s41598-026-66643-6_reference.pdf
+https://www.nature.com/articles/s41598-026-59642-0_reference.pdf
+https://patents.google.com/patent/US20260105438A1/en
+
+================================================================================
+ENGINEERING ARTICLES / BLOGS / SYSTEM DESIGN & ARCHITECTURE RESOURCES
+TOPICS: RISK MANAGEMENT | FRAUD DETECTION | ANTI-MONEY LAUNDERING (AML)
+Collected for: tri
+Collection date: 2026-11-16
+Total unique URLs: 192
+Format per line: URL  |  Title / description
+Note: URLs were gathered from live web search and verified index pages.
+      Section 11 lists blog hubs for continuing the collection over time.
+================================================================================
+
+
+--- 1. PAYMENTS & FINTECH COMPANIES - FRAUD / RISK ENGINEERING  (13 links) ---
+https://stripe.com/blog/a-primer-on-machine-learning-for-fraud-detection  |  Stripe - A primer on machine learning for fraud detection (Radar)
+https://stripe.dev/blog/how-we-built-it-stripe-radar  |  Stripe - How we built it: Stripe Radar
+https://stripe.dev/blog/scaling-radar-fighting-fraud-with-agent-assisted-machine-learning  |  Stripe - Scaling Radar: Fighting fraud with agent-assisted machine learning
+https://medium.com/paypal-tech/machine-learning-model-ci-cd-and-shadow-platform-8c4f44998c78  |  PayPal - Deploying large-scale fraud detection ML models: CI/CD and shadow platform
+https://developer.squareup.com/blog/a-peek-into-machine-learning-at-square/  |  Square - A peek into machine learning at Square (risk & fraud)
+https://block.xyz/inside/arming-square-customer-service-with-technology-to-detect-fraud-over-the-phone  |  Block/Square - Voice authentication ML to detect fraud over the phone
+https://shopify.engineering/machine-learning-at-shopify  |  Shopify - Augmented commerce: Machine learning at Shopify (incl. fraud)
+https://www.shopify.com/enterprise/blog/shopify-payments-pre-authorization  |  Shopify - Payments pre-authorization ML: payment success vs fraud chargebacks
+https://medium.com/brexeng/using-real-time-log-data-for-fraud-detection-dd63bd8181f5  |  Brex - Using real-time log data for fraud detection
+https://engineering.razorpay.com/meet-bumblebee-the-multi-agent-ai-architecture-that-changed-fraud-detection-at-razorpay-c2b6d5704f51  |  Razorpay - Meet Bumblebee: multi-agent AI architecture for fraud detection
+https://dev.to/razorpaytech/meet-bumblebee-agentic-ai-flagging-risky-merchants-in-under-90-seconds-2nlf  |  Razorpay - Bumblebee: agentic AI flagging risky merchants in under 90 seconds (dev.to mirror)
+https://engineering.razorpay.com/how-does-razorpay-capital-detect-duplicate-or-fraud-merchants-5ddc67e1535a  |  Razorpay Capital - Detecting duplicate or fraud merchants
+https://building.nu.com/practices-to-scale-machine-learning-operations/  |  Nubank - Practices to scale ML operations (real-time fraud detection)
+
+--- 2. MARKETPLACES, MOBILITY & CONSUMER PLATFORMS - TRUST, RISK & ANTI-ABUSE ENGINEERING  (34 links) ---
+https://www.uber.com/us/en/blog/mastermind/  |  Uber - Mastermind: rules engine to combat fraud
+https://www.uber.com/us/en/blog/project-radar-intelligent-early-fraud-detection/  |  Uber - Project RADAR: intelligent early fraud detection
+https://www.uber.com/us/en/blog/risk-entity-watch/  |  Uber - Risk Entity Watch: anomaly detection to fight fraud
+https://www.uber.com/us/en/blog/ubers-payments-platform/  |  Uber - Zero-Sum by Design: 10 years of Uber's Payments Platform (risk-adjacent architecture)
+https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743  |  Lyft - From shallow to deep learning in fraud
+https://eng.lyft.com/building-a-large-scale-unsupervised-model-anomaly-detection-system-part-1-aca4766a823c  |  Lyft - Building a large-scale unsupervised anomaly detection system (Part 1)
+https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e  |  Airbnb - Fighting financial fraud with targeted friction
+https://medium.com/airbnb-engineering/architecting-a-machine-learning-system-for-risk-941abbba5a60  |  Airbnb - Architecting a machine learning system for risk
+https://careersatdoordash.com/blog/doordash-fraud-insights-from-building-a-real-time-rules-engine/  |  DoorDash - Insights from building a real-time rules engine (fraud)
+https://careersatdoordash.com/blog/doordash-anomaly-detection-platform-to-catch-fraud-trends/  |  DoorDash - Building an anomaly detection platform to catch fraud trends
+https://deliveryhero.jobs/blog/building-a-real-time-anti-fraud-system/  |  Delivery Hero - Building a real-time anti-fraud system
+https://engineering.grab.com/griffin  |  Grab - Griffin: anti-fraud risk rule engine, billions of predictions daily
+https://engineering.grab.com/using-grabs-trust-counter-service-to-detect-fraud-successfully  |  Grab - Trust Counter Service to detect fraud successfully
+https://engineering.grab.com/graph-for-fraud-detection  |  Grab - Graph for fraud detection
+https://engineering.grab.com/graph-anomaly-model  |  Grab - GraphBEAN: unsupervised graph anomaly detection
+https://medium.com/gojekengineering/gosage-how-we-detect-fraud-syndicates-at-gojek-with-graph-neural-networks-d4d0f4890de1  |  Gojek - GoSage: detecting fraud syndicates with graph neural networks
+https://www.gojek.io/blog/introducing-clickstream  |  Gojek - Clickstream: real-time analytics platform (driver fraud detection use case)
+https://medium.com/pinterest-engineering/fighting-spam-with-guardian-a-real-time-analytics-and-rules-engine-938e7e61fa27  |  Pinterest - Fighting spam with Guardian: real-time analytics and rules engine
+https://medium.com/pinterest-engineering/fighting-spam-using-clustering-and-automated-rule-creation-1c01d8c11a05  |  Pinterest - Fighting spam using clustering and automated rule creation
+https://medium.com/pinterest-engineering/how-pinterest-fights-spam-using-machine-learning-d0ee2589f00a  |  Pinterest - How Pinterest fights spam using machine learning
+https://www.linkedin.com/blog/engineering/trust-and-safety/using-deep-learning-to-detect-abusive-sequences-of-member-activi  |  LinkedIn - Deep learning to detect abusive sequences of member activity
+https://www.linkedin.com/blog/engineering/data-management/isolation-forest  |  LinkedIn - Isolation forest for abuse detection
+https://www.linkedin.com/blog/engineering/trust-and-safety/automated-fake-account-detection-at-linkedin  |  LinkedIn - Automated fake account detection at LinkedIn
+https://www.linkedin.com/blog/engineering/trust-and-safety/building-trust-and-combating-abuse-on-our-platform  |  LinkedIn - Building trust and combating abuse on our platform (anti-abuse infra)
+https://engineering.fb.com/2019/12/13/security/fighting-abuse-scale-2019/  |  Meta - Fighting Abuse @Scale 2019 recap
+https://blog.x.com/engineering/en_us/a/2014/fighting-spam-with-botmaker  |  Twitter/X - Fighting spam with BotMaker
+https://blog.x.com/en_us/topics/company/2018/how-twitter-is-fighting-spam-and-malicious-automation  |  Twitter/X - How Twitter is fighting spam and malicious automation
+https://blog.cloudflare.com/cloudflare-bot-management-machine-learning-and-more  |  Cloudflare - Bot Management: machine learning and more
+https://blog.cloudflare.com/monitoring-machine-learning-models-for-bot-detection  |  Cloudflare - Monitoring machine learning models for bot detection
+https://blog.cloudflare.com/residential-proxy-bot-detection-using-machine-learning  |  Cloudflare - ML detection of bots leveraging residential proxies
+https://blog.cloudflare.com/per-customer-bot-defenses  |  Cloudflare - Per-customer defenses against advanced bots (anomaly detection)
+https://blog.cloudflare.com/introducing-adaptive-intelligence  |  Cloudflare - Adaptive intelligence: undermining the economics of bot attacks
+https://blog.cloudflare.com/good-and-bad-agentic-behaviors  |  Cloudflare - Good and bad agentic behaviors (Web Integrity & Trust team)
+https://blog.google/products/ads-commerce/using-ai-to-fight-invalid-ad-traffic/  |  Google - Using AI to fight invalid ad traffic (ad fraud)
+
+--- 3. DIGITAL BANKS & CRYPTO - FRAUD / FINANCIAL CRIME ENGINEERING  (15 links) ---
+https://monzo.com/blog/machine-learning-at-monzo-in-2025  |  Monzo - Machine learning at Monzo in 2025 (fraud platform)
+https://monzo.com/blog/representation-learning-for-enhanced-fraud-detection  |  Monzo - Representation learning for enhanced fraud detection
+https://monzo.com/blog/combining-generative-ai-and-predictive-modelling-to-fight-financial-crime  |  Monzo - Combining generative AI and predictive modelling to fight financial crime
+https://medium.com/data-monzo/machine-learning-at-monzo-d83a7d1a71e1  |  Monzo - Machine learning at Monzo in 2020
+https://nlathia.github.io/2021/10/Monzo-ML.html  |  Neal Lathia - Machine learning @ Monzo in 2021
+https://www.infoq.com/news/2025/11/monzo-real-time-fraud-detection/  |  InfoQ - Monzo's real-time fraud detection architecture (BigQuery)
+https://medium.com/revolut/building-a-state-of-the-art-card-fraud-detection-system-in-9-months-96463d7f652d  |  Revolut - Sherlock: building a state-of-the-art card fraud detection system in 9 months
+https://aws.amazon.com/solutions/case-studies/n26-case-study/  |  N26 - Detecting fraud within 500 ms using Flink on AWS (case study)
+https://wise.com/gb/blog/preventing-and-combating-financial-crime-at-wise  |  Wise - Preventing and combating financial crime at Wise
+https://www.coinbase.com/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent  |  Coinbase - Owning Intelligence 1/3: building a fraud agent
+https://www.coinbase.com/blog/part-two-owning-intelligence-series  |  Coinbase - Owning Intelligence 2/3: evaluating fraud models
+https://www.coinbase.com/blog/part-three-owning-intelligence-series  |  Coinbase - Owning Intelligence 3/3: post-training a fraud agent
+https://www.coinbase.com/blog/automating-risk-model-retrain-loop-with-agentic-skills  |  Coinbase - Automating risk model retrain loop with agentic skills
+https://www.coinbase.com/blog/agentic-llm-powered-signal-discovery-for-fraud-detection  |  Coinbase - Search, don't browse: agentic LLM signal discovery for fraud detection
+https://www.databricks.com/customers/coinbase/lakeflow  |  Coinbase - Real-time fraud detection on Databricks (case study)
+
+--- 4. AML, TRANSACTION MONITORING, SANCTIONS SCREENING & KYC ARCHITECTURE  (30 links) ---
+https://www.feedzai.com/blog/enhancing-anti-money-laundering-systems-architecture/  |  Feedzai - Enhancing anti-money laundering systems architecture
+https://www.feedzai.com/blog/sanctions-screening/  |  Feedzai - Sanctions screening challenges and best practices
+https://redis.io/blog/transaction-monitoring-system/  |  Redis - Transaction monitoring system: architecture guide
+https://aws.amazon.com/blogs/big-data/implement-anti-money-laundering-solutions-on-aws/  |  AWS - Implement anti-money laundering solutions on AWS (transaction monitoring)
+https://aws.amazon.com/blogs/architecture/fico-fraud-detection-and-anti-money-laundering-with-aws-lambda-and-aws-step-functions/  |  AWS - FICO: fraud detection and AML with Lambda and Step Functions
+https://aws.amazon.com/blogs/architecture/financial-crime-discovery-using-amazon-eks-and-graph-databases/  |  AWS - Financial crime discovery using Amazon EKS and graph databases
+https://aws.amazon.com/blogs/industries/banking-fraud-detection-with-machine-learning-and-real-time-analytics-on-aws/  |  AWS - Banking fraud detection with ML and real-time analytics (ATO + AML)
+https://docs.cloud.google.com/financial-services/anti-money-laundering/docs/concepts/architectural-overview  |  Google Cloud - Anti Money Laundering AI: architectural overview
+https://www.databricks.com/blog/2021/07/16/aml-solutions-at-scale-using-databricks-lakehouse-platform.html  |  Databricks - AML solutions at scale with the lakehouse platform
+https://www.schabell.org/2020/10/payments-architecture-anti-money-laundering-example.html  |  Eric Schabell - Payments architecture: anti-money laundering example
+https://www.vamsitalkstech.com/aml/anti-money-laundering-aml-industry-insights-reference-architectures/  |  VamsiTalksTech - AML industry insights & reference architectures (index of 8 posts)
+https://www.vamsitalkstech.com/aml/deter-financial-crime-by-creating-an-effective-anti-money-laundering-aml-program-12/  |  VamsiTalksTech - Deter financial crime: effective AML program (1/2)
+https://www.vamsitalkstech.com/transformation/how-big-data-predictive-analytics-transform-aml-compliance-in-banking-payments-22/  |  VamsiTalksTech - Big data & predictive analytics transform AML compliance (2/2)
+https://www.vamsitalkstech.com/risk/big-data-bankings-new-weapon-in-war-against-financial-crime-12/  |  VamsiTalksTech - Banking's new weapon against financial crime (1/2)
+https://www.vamsitalkstech.com/risk/big-data-bankings-new-weapon-in-war-against-financial-crime-22/  |  VamsiTalksTech - Banking's new weapon against financial crime (2/2, reference architecture)
+https://didit.me/blog/sanctions-screening-microservice-architecture/  |  Didit - Sanctions screening microservice: Go, Kafka, OPA
+https://www.sanctions.io/blog/embedding-sanctions-screening-as-a-product-feature  |  sanctions.io - Embedding sanctions screening as a product feature (API architecture)
+https://checklynx.com/en/resources/guides/real-time-sanctions-screening-api-architecture  |  Checklynx - Real-time sanctions screening API architecture guide
+https://www.unit21.ai/blog/the-complete-guide-to-transaction-monitoring  |  Unit21 - AML transaction monitoring: complete guide
+https://www.unit21.ai/blog/the-new-unit21-why-we-rebuilt-everything-around-ai-agents  |  Unit21 - Why we rebuilt everything around AI agents (detection platform architecture)
+https://www.unit21.ai/fraud-aml-dictionary/fraud-rules-engine  |  Unit21 - Fraud rules engine (dictionary / design)
+https://www.unit21.ai/blog/suspicious-activity-reporting-best-practices  |  Unit21 - Suspicious activity reporting: 6 best practices
+https://www.unit21.ai/blog/aml-101-how-to-use-our-advanced-fraud-detection-model  |  Unit21 - AML 101: using an advanced fraud detection model
+https://www.flagright.com/bite-sized-compliance/the-art-of-developing-effective-aml-transaction-monitoring-rules  |  Flagright - The art of developing effective AML transaction monitoring rules
+https://medium.com/@vontamar/building-real-world-aml-systems-a-complete-guide-to-open-source-implementation-and-mlops-5b9e5fb8dd4e  |  Medium - Building real-world AML systems: open-source implementation and MLOps
+https://blog.dataopslabs.com/designing-an-ambient-ai-agent-for-real-time-anti-money-laundering-aml-using-aws-strands-part-1  |  DataOpsLabs - Ambient AI agent for real-time AML using AWS Strands (Part 1)
+https://dev.to/aws/dev-track-spotlight-anti-money-laundering-multi-agent-orchestration-with-aws-strands-dev326-6p8  |  dev.to/AWS - AML multi-agent orchestration with AWS Strands (serverless)
+https://aws.amazon.com/blogs/architecture/modernizing-kyc-with-aws-serverless-solutions-and-agentic-ai-for-financial-services/  |  AWS - Modernizing KYC with serverless solutions and agentic AI
+https://kanopylabs.com/blog/how-to-build-a-kyc-identity-verification-system  |  KanopyLabs - How to build a KYC and identity verification system
+https://www.alloy.com/blog/when-and-how-to-file-a-suspicious-activity-report-sar  |  Alloy - When and how to file a Suspicious Activity Report (SAR)
+
+--- 5. STREAMING, GRAPH & FEATURE INFRASTRUCTURE FOR REAL-TIME RISK DECISIONING  (24 links) ---
+https://www.kai-waehner.de/blog/2022/10/25/fraud-detection-with-apache-kafka-ksql-and-apache-flink/  |  Kai Waehner - Fraud detection with Apache Kafka, ksqlDB and Apache Flink
+https://www.kai-waehner.de/blog/2025/04/28/fraud-detection-in-mobility-services-ride-hailing-food-delivery-with-data-streaming-using-apache-kafka-and-flink/  |  Kai Waehner - Fraud detection in mobility services with Kafka and Flink
+https://www.kai-waehner.de/blog/2025/07/24/pinterest-fights-spam-and-abuse-with-kafka-and-flink-a-deep-dive-into-the-guardian-rules-engine/  |  Kai Waehner - Pinterest Guardian rules engine deep dive (Kafka + Flink)
+https://www.confluent.io/blog/real-time-streaming-prevents-fraud/  |  Confluent - How real-time streaming prevents fraud in banking & payments
+https://www.alibabacloud.com/blog/a-guide-to-preventing-fraud-detection-in-real-time-with-apache-flink_602024  |  Alibaba Cloud - Real-time fraud detection with Apache Flink (Pattern API)
+https://www.tinybird.co/blog/how-to-build-a-real-time-fraud-detection-system  |  Tinybird - How to build a real-time fraud detection system
+https://www.elastic.co/blog/building-fraud-detection-framework  |  Elastic - Detecting the undetectable: building a fraud detection framework
+https://redis.io/blog/ai-in-payment-processing/  |  Redis - AI in payment processing: real-time fraud detection (<100ms)
+https://www.databricks.com/blog/real-time-fraud-detection-feature-views  |  Databricks - Real-time fraud detection with Feature Views (Kafka to live score)
+https://hazelcast.com/blog/supercharging-real-time-machine-learning-pipelines-with-feature-stores/  |  Hazelcast - Real-time ML pipelines with feature stores (fraud tutorial)
+https://pub.towardsai.net/designing-real-time-features-for-fraud-detection-at-scale-490afd927152  |  Towards AI - Designing real-time features for fraud detection at scale
+https://www.sardine.ai/engineering/building-a-fincrime-feature-store-how-we-use-golang-and-dataflow-df5c0  |  Sardine - Building a fincrime feature store with Golang and Dataflow
+https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a  |  Lyft - ML feature serving infrastructure at Lyft
+https://aws.amazon.com/blogs/machine-learning/build-a-gnn-based-real-time-fraud-detection-solution-using-amazon-sagemaker-amazon-neptune-and-the-deep-graph-library/  |  AWS - GNN-based real-time fraud detection (SageMaker + Neptune + DGL)
+https://www.amazon.science/code-and-datasets/real-time-fraud-detection-with-graph-neural-network-on-dgl  |  Amazon Science - Real-time fraud detection with GNN on DGL (blueprint)
+https://developer.nvidia.com/blog/supercharging-fraud-detection-in-financial-services-with-graph-neural-networks/  |  NVIDIA - Supercharging fraud detection with graph neural networks (AI blueprint)
+https://www.thoughtworks.com/en-us/insights/articles/graph-neural-networks-in-fraud-prevention  |  Thoughtworks - GNNs: modernizing fraud prevention in financial services
+https://www.cesarsotovalero.net/blog/from-classical-ml-to-dnns-and-gnns-for-real-time-financial-fraud-detection.html  |  Cesar Soto Valero - From classical ML to DNNs and GNNs for real-time fraud detection
+https://medium.com/yugen-ai-technology-blog/real-time-fraud-detection-using-apache-flink-part-1-f4b1c9d6e952  |  Yugen AI - Real-time fraud detection using Apache Flink (Part 1)
+https://dev.to/mongodb/real-time-fraud-detection-in-java-with-kafka-streams-and-vector-similarity-n2a  |  MongoDB - Real-time fraud detection in Java with Kafka Streams and vector similarity
+https://www.conduktor.io/glossary/real-time-fraud-detection-with-streaming  |  Conduktor - Real-time fraud detection with streaming (architecture glossary)
+https://xebia.com/blog/real-time-machine-learning-considerations-based-on-fraud-detection-use-case/  |  Xebia - Real-time ML considerations based on a fraud detection use case
+https://www.exoscale.com/blog/kafka-managed-proof/  |  Exoscale - From 24 hours to 24 milliseconds: real-time fraud prevention with Kafka
+https://tacnode.io/post/real-time-fraud-detection-architecture  |  Tacnode - Real-time fraud detection architecture: the canonical stack
+
+--- 6. CLOUD REFERENCE ARCHITECTURES & SOLUTION PATTERNS  (12 links) ---
+https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/  |  AWS - Real-time fraud detection using serverless and ML services
+https://aws.amazon.com/blogs/machine-learning/detect-fraudulent-transactions-using-machine-learning-with-amazon-sagemaker/  |  AWS - Detect fraudulent transactions with SageMaker (self-improving pipeline)
+https://aws.amazon.com/blogs/machine-learning/prevent-account-takeover-at-login-with-the-new-account-takeover-insights-model-in-amazon-fraud-detector/  |  AWS - Prevent account takeover at login (Account Takeover Insights model)
+https://aws.amazon.com/blogs/machine-learning/detect-fraud-in-mobile-oriented-businesses-using-grabdefence-device-intelligence-and-amazon-fraud-detector/  |  AWS - GrabDefence device intelligence + Amazon Fraud Detector
+https://aws.amazon.com/blogs/apn/how-wipro-improves-financial-fraud-detection-with-real-time-fraud-detection-using-iffd/  |  AWS - Wipro Intelligent Financial Fraud Detection (IFFD)
+https://aws.amazon.com/blogs/big-data/how-razorpay-built-real-time-anomaly-detection-with-amazon-msk/  |  AWS - Razorpay ADA: real-time anomaly detection with Amazon MSK
+https://aws.amazon.com/blogs/machine-learning/modernize-and-migrate-on-premises-fraud-detection-machine-learning-workflows-to-amazon-sagemaker/  |  AWS - Modernize/migrate on-prem fraud detection ML workflows to SageMaker (Radial)
+https://aws.amazon.com/blogs/machine-learning/catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector/  |  AWS - Catching fraud faster: proof of concept in Amazon Fraud Detector
+https://cloud.google.com/blog/products/data-analytics/how-to-build-a-fraud-detection-solution  |  Google Cloud - How to build a fraud detection solution (smart analytics pattern)
+https://cloud.google.com/blog/products/data-analytics/how-sift-delivers-fraud-detection-workflow-backtesting-at-scale  |  Google Cloud - How Sift delivers fraud detection workflow backtesting at scale
+https://learn.microsoft.com/en-us/fabric/real-time-intelligence/architectures/fraud-detection  |  Microsoft - Fabric Real-Time Intelligence fraud detection reference architecture
+https://builder.aws.com/content/3JaxY34j1OeKihQplwZwdwRoBIq/building-an-ai-powered-anti-money-laundering-detection-system-with-aws  |  AWS Builder - Building an AI-powered AML detection system with AWS
+
+--- 7. SYSTEM DESIGN & ML SYSTEM DESIGN WALKTHROUGHS  (15 links) ---
+https://blog.bytebytego.com/p/how-stripe-detects-fraudulent-transactions  |  ByteByteGo - How Stripe detects fraudulent transactions within 100 ms
+https://blog.bytebytego.com/p/how-nubank-uses-ai-models-to-analyze  |  ByteByteGo - How Nubank uses AI models to analyze transaction data
+https://blog.bytebytego.com/p/how-lyft-built-an-ml-platform-that  |  ByteByteGo - How Lyft built an ML platform that serves millions
+https://datavidhya.com/learn/de-system-design/question-breakdowns-advanced/real-time-fraud-detection/  |  DataVidhya - Design a real-time fraud detection system (DE system design)
+https://www.bugfree.ai/system-design/real-time-fraud-detection  |  BugFree.ai - Design a real-time fraud detection system
+https://desiarchitect.com/system-design-notes/case-files/fraud-detection.html  |  DesiArchitect - Design PhonePe/Paytm real-time fraud detection engine (<50ms)
+https://manishmazumder5.substack.com/p/real-time-fraud-detection-ml-system  |  Manish Mazumder - Real-time fraud detection: ML system design interviews
+https://ai.plainenglish.io/real-time-fraud-detection-in-banking-ml-system-design-use-case-1-e84a15483d16  |  AI Plain English - Real-time fraud detection in banking: ML system design use case
+https://medium.com/@gupta.rajneesh2010/26-risk-scoring-engine-design-bb9e6d3090f9  |  Medium - Risk scoring engine design (centralized risk intelligence platform)
+https://medium.com/@infinitylearnings1201/100-days-of-data-engineering-day-67-data-engineering-for-real-time-fraud-detection-66c090aeaaff  |  Medium - Data engineering for real-time fraud detection (100 Days of DE, Day 67)
+https://groverpr.github.io/detection/2023-05-02-fraud-detection-frameworks  |  Prateek Grover - Different design frameworks for ML-based fraud detection
+https://pub.towardsai.net/fraud-detection-algorithms-and-when-to-use-them-3dd2f4f61dab  |  Towards AI - Fraud detection algorithms and when to use them
+https://merchantriskcouncil.org/learning/resource-center/member-news/blog/2024/discover-data-engineering-challenges-in-handling-large-volumes-of-fraud-detection-data  |  Merchant Risk Council - Data engineering challenges of large-volume fraud data
+https://flexgate.tech/blog/payment-risk-engine-architecture-scoring-logic/  |  Flexgate - Payment risk engine architecture: scoring & control logic
+https://developer.nvidia.com/blog/leveraging-machine-learning-to-detect-fraud-tips-to-developing-a-winning-kaggle-solution/  |  NVIDIA - Leveraging ML to detect fraud: winning Kaggle IEEE-CIS solution
+
+--- 8. FRAUD / AML VENDOR ENGINEERING & APPLIED ML BLOGS  (14 links) ---
+https://sift.com/engineering/serving-requests-to-thousands-of-ml-models/  |  Sift - Serving requests to thousands of ML models (inference architecture)
+https://sift.com/engineering/fraud-attack-defense-suite-part-1/  |  Sift - Fraud Attack Defense Suite: catching fraud attacks in real time (Part 1)
+https://sift.com/engineering/fraud-attack-defense-suite-part-2/  |  Sift - Fraud Attack Defense Suite: catching fraud attacks in real time (Part 2)
+https://sift.com/engineering/sift-apache-airflow/  |  Sift - Training thousands of ML models with Apache Airflow
+https://engineering.sift.com/deep-learning-fraud-detection/  |  Sift - Deep learning for fraud detection
+https://www.sardine.ai/engineering/fake-job-candidate-detection-system  |  Sardine - Building a fake job candidate detection system in 4 hours
+https://www.socure.com/blog/machine-learning-fundamentals-for-fraud-prevention  |  Socure - Machine learning fundamentals for fraud prevention (feature engineering)
+https://fingerprint.com/blog/device-fingerprinting/  |  Fingerprint - Device fingerprinting: what it is, how it works
+https://stytch.com/blog/what-is-device-fingerprinting/  |  Stytch - What is device fingerprinting and how does it work
+https://plaid.com/resources/identity/device-fingerprinting/  |  Plaid - How device fingerprinting improves fraud prevention
+https://www.feedzai.com/blog/what-is-ai-fraud-detection/  |  Feedzai - AI for fraud detection: how it works & why it matters
+https://www.feedzai.com/blog/the-comprehensive-guide-to-account-takeover-fraud-prevention-and-detection/  |  Feedzai - Comprehensive guide to account takeover fraud prevention & detection
+https://www.datavisor.com/blog/the-5-minute-fraud-strategy-how-ai-is-redefining-feature-engineering-for-fraud-detection  |  DataVisor - How AI is redefining feature engineering for fraud detection
+https://imply.io/blog/how-sift-is-accurately-identifying-anomalies-in-real-time-by-using-imply-druid/  |  Imply - How Sift identifies anomalies in real time with Druid
+
+--- 9. TALKS, CASE-STUDY DATABASES & PODCASTS  (9 links) ---
+https://www.infoq.com/presentations/paypal-data-service-fraud/  |  InfoQ - Data pipelines for real-time fraud prevention at scale (PayPal)
+https://www.infoq.com/presentations/paypal-data-analysis-ml-fraud/  |  InfoQ - Real-time data analysis and ML for fraud prevention (PayPal)
+https://www.infoq.com/presentations/coinbase-risk-machine-learning/  |  InfoQ - Solving payment fraud and user security with ML (Coinbase)
+https://www.infoq.com/news/2018/03/financial-fraud-ml-airbnb/  |  InfoQ - Fighting financial fraud with machine learning at Airbnb
+https://www.infoq.com/presentations/fraud-prevention-generative-ai/  |  InfoQ - Generative AI: shaping a new future for fraud prevention (Neha Narkhede)
+https://www.zenml.io/mlops-database/doordash-doordashs-ml-platform-dark-shipping-rollout-for-ml-fraud-detection-models-with-shadow-traffic-fault-isolation-a  |  ZenML - DoorDash: dark shipping rollout for ML fraud models (shadow traffic)
+https://www.zenml.io/llmops-database/ai-powered-fraud-detection-using-mixture-of-experts-and-federated-learning  |  ZenML - Feedzai TrustScore: mixture of experts and federated learning
+https://softwareengineeringdaily.com/podcasts/implementing-kyc-and-user-verification-with-alex-grinman/  |  Software Engineering Daily - Implementing KYC and user verification (Footprint)
+https://home.mlops.community/public/videos/monzo-machine-learning-case-study  |  MLOps Community - Monzo machine learning case study (video)
+
+--- 10. RESEARCH PAPERS & OPEN-SOURCE CODE  (8 links) ---
+https://arxiv.org/abs/2411.05815  |  arXiv - Graph neural networks for financial fraud detection (survey)
+https://www.amazon.science/code-and-datasets/fdb-fraud-dataset-benchmark  |  Amazon Science - FDB: Fraud Dataset Benchmark
+https://www.amazon.science/publications/profraudguard-proactive-adversarial-fine-tuning-of-fraud-detectors-with-inverse-reinforcement-learning  |  Amazon Science - ProFraudGuard: proactive adversarial fine-tuning of fraud detectors
+https://research.feedzai.com/wp-content/uploads/2022/08/Branco_Interleaved_RNNs_KDD2020.pdf  |  Feedzai Research - Interleaved sequence RNNs for fraud detection (KDD 2020, PDF)
+https://dl.acm.org/doi/pdf/10.1145/3604237.3626856  |  ACM - GoSage: heterogeneous GNN for fraud syndicate detection (Gojek, PDF)
+https://github.com/grab/GraphBEAN  |  GitHub - Grab/GraphBEAN: anomaly detection on bipartite graphs
+https://research.netflix.com/publication/abuse-and-fraud-detection-in-streaming-services-using-heuristic-aware  |  Netflix Research - Abuse and fraud detection in streaming services
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5963374  |  SSRN - Building effective anti-money laundering systems (architecture paper)
+
+--- 11. BLOG HUBS & INDEXES (for ongoing collection)  (18 links) ---
+https://www.infoq.com/fraud-detection/  |  InfoQ - Fraud Detection topic hub
+https://engineering.grab.com/  |  Grab Tech Blog
+https://medium.com/grab/tagged/fraud-detection  |  Grab on Medium - Fraud Detection tag
+https://engineering.sift.com/articles/  |  Sift Engineering - Articles index
+https://www.sardine.ai/engineering  |  Sardine Engineering Blog
+https://www.coinbase.com/blog/landing/engineering  |  Coinbase Engineering Blog
+https://www.flagright.com/blog  |  Flagright Blog (fincrime engineering deep-dives)
+https://www.unit21.ai/category/aml  |  Unit21 AML Blog
+https://www.feedzai.com/resource/  |  Feedzai Resources Archive
+https://plaid.com/blog/  |  Plaid Blog
+https://www.brex.com/journal/engineering-blog  |  Brex Engineering Blog
+https://medium.com/revolut/tagged/machine-learning  |  Revolut Tech on Medium - Machine Learning tag
+https://airbnb.tech/  |  Airbnb Engineering & Data Science
+https://monzo.com/blog/topic/technology  |  Monzo Blog - Technology
+https://www.uber.com/us/en/blog/engineering/  |  Uber Engineering Blog
+https://engineering.razorpay.com/  |  Razorpay Engineering
+https://blog.booking.com/  |  Booking.com Tech Blog (fraud detection research agenda etc.)
+https://engineering.block.xyz/blog  |  Block Engineering Blog
