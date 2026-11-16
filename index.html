@@ -5,6 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="light dark">
 <title>Fintech Engineering Reader</title>
+<link rel="icon" type="image/svg+xml" href="icon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0b6efd" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f141a" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Fintech Reader">
 <style>
 :root{
   --bg:#f4f6f8;--surface:#fff;--text:#17212b;--muted:#5f6b76;--border:#d9e0e7;
@@ -17,6 +25,8 @@
 *{box-sizing:border-box} body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.4}
 header{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--surface) 92%, transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
 .wrap{max-width:900px;margin:0 auto;padding:12px 14px}
+.brand{display:flex;align-items:center;gap:10px}
+.logo{width:40px;height:40px;flex:0 0 auto;border-radius:10px;box-shadow:var(--shadow)}
 h1{font-size:1.1rem;margin:0 0 2px} .sub{color:var(--muted);font-size:.85rem;margin:0}
 .controls{display:grid;gap:8px;margin-top:10px}
 input[type=search],select{width:100%;padding:10px 12px;border:1px solid var(--border);border-radius:10px;background:var(--surface);color:var(--text);font-size:16px}
@@ -46,8 +56,13 @@ button.toggle.primary{background:var(--primary);color:#fff;border-color:var(--pr
 <body>
 <header>
   <div class="wrap">
-    <h1>Fintech Engineering Reader</h1>
-    <p class="sub">Risk, fraud &amp; AML posts — deduplicated from source list</p>
+    <div class="brand">
+      <img class="logo" src="icon.svg" alt="" width="40" height="40">
+      <div>
+        <h1>Fintech Engineering Reader</h1>
+        <p class="sub">Risk, fraud &amp; AML posts — deduplicated from source list</p>
+      </div>
+    </div>
     <div class="controls">
       <input id="q" type="search" placeholder="Search title, source, or URL…" autocomplete="off">
       <select id="cat"><option value="">All categories</option></select>
